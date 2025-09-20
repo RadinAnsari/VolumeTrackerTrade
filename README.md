@@ -1,6 +1,6 @@
 # 🏦 Volume Tracker
 
-This Node.js script connects to **Binance** using [CCXT](https://github.com/ccxt/ccxt) and retrieves the **top 50 cryptocurrencies by buy and sell order volumes**.  
+This Node.js script connects to **Binance** using [CCXT](https://github.com/ccxt/ccxt) and retrieves the ** cryptocurrencies by buy and sell order volumes**.  
 It helps traders quickly see which assets have the largest buying (bid) and selling (ask) pressure in real-time.
 
 
