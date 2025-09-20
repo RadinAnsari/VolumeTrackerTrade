@@ -11,9 +11,6 @@ It helps traders quickly see which assets have the largest buying (bid) and sell
 
 - Fetches **order book** for the top 100 USDT trading pairs.  
 - Calculates **buy volume** (total bids) and **sell volume** (total asks) per symbol.  
-- Displays **Top 50 symbols** by bid volume (buyers) and ask volume (sellers).  
-- Handles Binance rate limits automatically.
-
 ---
 
 ## **Installation**
